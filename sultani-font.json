@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "Sultani",
+    "previewText": "مرحباً بك في ديسكورد",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/mmdff60-ux/Mmd/raw/refs/heads/main/sultani-bold.ttf",
+        "ggsans-Bold": "https://github.com/mmdff60-ux/Mmd/raw/refs/heads/main/sultani-bold.ttf",
+        "ggsans-BoldItalic": "https://github.com/mmdff60-ux/Mmd/raw/refs/heads/main/sultani-bold.ttf",
+        "ggsans-ExtraBold": "https://github.com/mmdff60-ux/Mmd/raw/refs/heads/main/sultani-bold.ttf",
+        "ggsans-ExtraBoldItalic": "https://github.com/mmdff60-ux/Mmd/raw/refs/heads/main/sultani-bold.ttf",
+        "ggsans-Medium": "https://github.com/mmdff60-ux/Mmd/raw/refs/heads/main/sultani-bold.ttf",
+        "ggsans-MediumItalic": "https://github.com/mmdff60-ux/Mmd/raw/refs/heads/main/sultani-bold.ttf",
+        "ggsans-Normal": "https://github.com/mmdff60-ux/Mmd/raw/refs/heads/main/sultani-bold.ttf",
+        "ggsans-NormalItalic": "https://github.com/mmdff60-ux/Mmd/raw/refs/heads/main/sultani-bold.ttf",
+        "ggsans-Semibold": "https://github.com/mmdff60-ux/Mmd/raw/refs/heads/main/sultani-bold.ttf",
+        "ggsans-SemiboldItalic": "https://github.com/mmdff60-ux/Mmd/raw/refs/heads/main/sultani-bold.ttf",
+        "NotoSans-Bold": "https://github.com/mmdff60-ux/Mmd/raw/refs/heads/main/sultani-bold.ttf",
+        "NotoSans-ExtraBold": "https://github.com/mmdff60-ux/Mmd/raw/refs/heads/main/sultani-bold.ttf",
+        "NotoSans-Medium": "https://github.com/mmdff60-ux/Mmd/raw/refs/heads/main/sultani-bold.ttf",
+        "NotoSans-Normal": "https://github.com/mmdff60-ux/Mmd/raw/refs/heads/main/sultani-bold.ttf",
+        "NotoSans-NormalItalic": "https://github.com/mmdff60-ux/Mmd/raw/refs/heads/main/sultani-bold.ttf",
+        "NotoSans-Semibold": "https://github.com/mmdff60-ux/Mmd/raw/refs/heads/main/sultani-bold.ttf",
+        "SourceCodePro-Semibold": "https://github.com/mmdff60-ux/Mmd/raw/refs/heads/main/sultani-bold.ttf"
+    }
+}
